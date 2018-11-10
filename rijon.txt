@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hasib Uddin's Profile</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="div1" style="color: white; font-family: initial;">
+		<h1 class="left">Student</h1>
+		<p class="left">Bsc in cse</p>
+	    <img src="photo.jpg">
+		<hr/>
+		<h3 class="left">Name    : Hasib Uddin</h3>
+		<h3 class="left">Email   : rijonhasib4@gmail.com</h3>
+		<h3 class="left">Phone   : 01000000000</h3>
+		<h3 class="left">Website : rijonhasib.github.io</h3>
+		<h4 class="left"><a href="http://www.uiu.ac.bd/">University</a></h4>
+		<h4 class="left"><a href="hobby.html">Hobbies</a></h4>
+		<h4 class="left"><a href="goal.html">Goal</a></h4>
+	</div>
+</body>
+</html>
